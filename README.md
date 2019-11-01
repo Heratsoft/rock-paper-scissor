@@ -1,2 +1,2 @@
 # rock-paper-scissor
-HTML + CSS + JavaScript
+HTML + CSS + JavaScript Project
